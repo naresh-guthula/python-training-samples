@@ -1,0 +1,25 @@
+datatypes
+----------
+
+numeric (int, float, complex)
+strings(unicode, bytes)
+boolean
+nonetype
+
+complex/collections
+    list aka array, ordered collections
+    tuple (readonly list)
+    set (hash list)
+    dict (hash, map)
+
+sequences object/type (str, list, tuple)
+-----------------------------------------
+    operation
+        a. indexing
+        b. slicing
+        c. iteration
+
+
+        ____________________________________
+        slicing
+            name[start-index:ex-of-end-index]

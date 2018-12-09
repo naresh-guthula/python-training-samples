@@ -1,0 +1,45 @@
+python - bare minimum python
+anaconda prompt - with extra libraries
+jupyter -> web based client
+
+name='stringvalue';
+dirdir(type)
+__private__ members should not be invoked -> use respective operator
+help(str) -> str class details
+help(str.center)
+dir(__builtins__) -> default module
+import math
+import sys -> sys info
+# namespace
+
+callable(math.sin) -> returns boolean. Callable or not
+ipython
+ipython notebook
+
+BaseException -> Exception, Warning
+
+context manager
+
+what?
+    programming constructor
+
+why?
+    to do IO
+
+
+how?
+    -code block
+    -handles couple
+        a.entry (allocate)
+        b. exit (deallocated)
+
+regex:
+    operations
+        pattern match
+         find & replace
+         split
+
+    characteristics:
+        a. case sensitive
+        b. match only once in a line
+        c. sub strings

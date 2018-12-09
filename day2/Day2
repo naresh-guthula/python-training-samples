@@ -1,0 +1,17 @@
+generator (custom iter)
+    -expression
+    -function
+
+Python Decorators
+
+Decorator overview
+    A decorator is the function takes only argument as the function and returns the function
+    A decorator replaces a function with a new decorator functions
+
+why Decorators:
+    flexible & generic code
+    wrap return values
+    early exit
+    any common behavior for many functions
+
+python -m pip install pyodbc

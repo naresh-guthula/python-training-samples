@@ -1,0 +1,29 @@
+arithmetic(+, -, *, /, %, **)
+            // (floor division)
+            ceil division floor division + 1
+
+relational( >, >=, <, <=, ==, !=)
+    can also do 3 > n < 7
+logical(and, or not)
+bitwise (&, |, ^, -, >>, <<)
+
+special operators
+if else  conditional operator # ?  :
+true part if condition else false part
+
+
+membership test operator(in, not in)]
+s = 'this is a sample string'
+print('sam' in s)
+print('zee' not in s)
+
+# range operator
+range(start value, end value, step)
+range(0, 10)
+#iterator
+for temp in range(10);
+    print(temp)
+
+items = list(range(1, 20))
+print(items)
+print(13 in items)
