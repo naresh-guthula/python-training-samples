@@ -3,7 +3,7 @@ import xml.etree.ElementTree as et
 etree = et.parse('movies.xml')
 
 root_tag = etree.getroot()
-
+print(root_tag)
 # pp(dir(root_tag))
 # exit(1)
 # pp(root_tag.getchildren())
